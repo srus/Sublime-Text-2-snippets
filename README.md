@@ -1,4 +1,5 @@
-Sublime-Text-2-snippets
-=======================
+Put the directories into:
 
-My own snippets for Sublime Text 2
+~/.Sublime Text 2/Packages/User/
+
+And remove the default snippets in order to avoid duplication.
