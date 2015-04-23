@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[${1:function_name} = function(${3:attribute}) {
+	<content><![CDATA[${1:function_name} = function (${3:args}) {
 	${0:// code}
 };]]></content>
-    <tabTrigger>funl</tabTrigger>
-    <scope>source.js</scope>
-    <description>Function literal</description>
+	<tabTrigger>funl</tabTrigger>
+	<scope>source.js</scope>
+	<description>Function literal</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[${1:method_name}: function(${3:attribute}) {
-	${0:// code}
+	<content><![CDATA[${1:method_name}: function (${2:args}) {
+	${3:// code}
 },]]></content>
-    <tabTrigger>funm</tabTrigger>
-    <scope>source.js</scope>
-    <description>Object Method</description>
+	<tabTrigger>funm</tabTrigger>
+	<scope>source.js</scope>
+	<description>Object Method</description>
 </snippet>
